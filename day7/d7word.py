@@ -1,7 +1,12 @@
-word_list=['aishu',
-      'gita',
-      'sita',
-      'nani',
-      'vijay',
-      'aruna',
-      'samnatha']
+word_list=["python",
+          "programming",
+          "objectoriented"
+          "syntax"
+          "functions",
+          "classes",
+          "errors",
+          "loops",
+          "statements",
+          "Execptions",
+          "events",
+          "userinterface"]
