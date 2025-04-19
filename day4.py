@@ -39,17 +39,17 @@ else :
     print(f"computer's choose:{comchoice}")
     print(list[comchoice])
 
-    if comchoice > userchoice:
-        print("you loose")
+    if userchoice == comchoice:
+        print('you draw')
     elif userchoice==2 and comchoice==0:
         print('you loose!')
     elif comchoice==2 and userchoice==0:
         print("you win!")
+    elif comchoice > userchoice:
+        print("you loose")
     elif userchoice > comchoice:
         print("you win!")
-    elif userchoice==comchoice :
-        print('you draw')
-    
+
 
 
 
